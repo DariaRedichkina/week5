@@ -24,5 +24,8 @@
     <ClCompile Include="Конвертор.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Про алфавит.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
