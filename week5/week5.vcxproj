@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Адреса.cpp" />
     <ClCompile Include="Даты.cpp" />
+    <ClCompile Include="Конвертор.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
