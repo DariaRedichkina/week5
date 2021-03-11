@@ -18,5 +18,8 @@
     <ClCompile Include="Адреса.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Даты.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
